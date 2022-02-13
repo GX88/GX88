@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Metrics](https://metrics.lecoq.io/GX88?template=classic&config.timezone=Asia%2FShanghai)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=GX88&show_icons=true&theme=dark&count_private=true)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GX88&theme=dark&layout=compact)
